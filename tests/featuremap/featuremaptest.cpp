@@ -29,6 +29,10 @@
 #include <string>
 #include <vector>
 
+#include <cstdint>
+
+
+
 #include <graphite2/Font.h>
 
 #include "inc/Endian.h"
